@@ -14,6 +14,6 @@ Obtaining the total area of land burned each year.
 
 
 ### Notes
-
+1. Data can be obtained [here](https://www.alberta.ca/wildfire-maps-and-data#jumplinks-2)
 
 ### Additional FUnctionality
