@@ -15,5 +15,7 @@ Obtaining the total area of land burned each year.
 
 ### Notes
 1. Data can be obtained [here](https://www.alberta.ca/wildfire-maps-and-data#jumplinks-2).
+2. Split filename into folder and filename
+3. Write script to first unzip the HWFP folder. Currently, folder is unzipped. However, folder is zipped when downloaded.
 
 ### Additional FUnctionality
