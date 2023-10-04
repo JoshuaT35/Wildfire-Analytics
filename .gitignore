@@ -1,2 +1,6 @@
-# Folder with ESRI Shapefile and data
+# Folder with ESRI wildfire Shapefile and data
 /HistoricalWildfirePerimeters
+
+
+# Folder with states and provinces data
+/NaturalEarthData
